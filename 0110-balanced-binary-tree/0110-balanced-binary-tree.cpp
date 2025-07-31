@@ -13,13 +13,16 @@ class Solution {
 public:
 
     int check(TreeNode* node,bool &valid){
-        if(!node) return 0;
+        if(!node ||!valid) return 0;
         int l=check(node->left,valid);
+        
+
         int r=check(node->right,valid);
         if(abs(l-r)>1) {
             valid=0;        
         }
         return 1+max(l,r);
+        // return -1;
     }
     bool isBalanced(TreeNode* root) {
         bool valid=1;
