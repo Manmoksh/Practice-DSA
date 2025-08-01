@@ -77,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Manmoksh/Practice-GFG/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Manmoksh/Practice-GFG/tree/master/1086-divisor-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Manmoksh/Practice-GFG/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
@@ -86,10 +87,12 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Manmoksh/Practice-GFG/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Manmoksh/Practice-GFG/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Manmoksh/Practice-GFG/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Manmoksh/Practice-GFG/tree/master/1086-divisor-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Manmoksh/Practice-GFG/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Simulation
