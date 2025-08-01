@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Manmoksh/Practice-GFG/tree/master/1086-divisor-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Manmoksh/Practice-GFG/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +91,9 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Manmoksh/Practice-GFG/tree/master/1086-divisor-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Manmoksh/Practice-GFG/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Simulation
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Manmoksh/Practice-GFG/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
