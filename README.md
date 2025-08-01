@@ -56,4 +56,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Manmoksh/Practice-GFG/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Manmoksh/Practice-GFG/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Manmoksh/Practice-GFG/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
