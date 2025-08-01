@@ -74,4 +74,20 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Manmoksh/Practice-GFG/tree/master/0547-number-of-provinces) |
+## Math
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Manmoksh/Practice-GFG/tree/master/1086-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Manmoksh/Practice-GFG/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Manmoksh/Practice-GFG/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Manmoksh/Practice-GFG/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
