@@ -5,7 +5,7 @@ public:
         vector<int> ans;
         vector<int> indegree(numCourses,0);
         queue<int> q;
-        int count=0;
+     
         for(int i=0;i<prerequisites.size();i++){
             int u=prerequisites[i][1];
             int v=prerequisites[i][0];
@@ -17,7 +17,7 @@ public:
         for(int u=0;u<numCourses;u++){
             if(!indegree[u]) {
                 q.push(u);
-                count++;
+                
             }
         }
         while(!q.empty()){
@@ -28,11 +28,11 @@ public:
                 indegree[v]--;
                 if(!indegree[v]){
                 q.push(v);
-                count++;
+             
                 } 
             }
         }
-        if(count == numCourses) return ans;
+        if(ans.size()==numCourses) return ans;
 
         return {};
 
