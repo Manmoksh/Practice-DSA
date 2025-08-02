@@ -4,8 +4,7 @@ class Solution {
         vis[node]=1;
         a.push_back(node);
         for(int i:adj[node]){
-            if(!vis[i])
-            dfs(a,adj,i,vis);
+            if(!vis[i]) dfs(a,adj,i,vis);
         }
         
     }
